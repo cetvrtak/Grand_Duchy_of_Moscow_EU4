@@ -591,3 +591,23 @@ technology = { #The Gold Standard
 	trade_range				=	20
 	global_colonial_growth  = 	50
 }
+
+technology = { #Railroad
+	# Tech 33
+	year = 1848
+	expects_institution = {
+		feudalism = 0.5
+		renaissance = 0.5
+		new_world_i = 0.5
+		printing_press = 0.5
+		global_trade = 1
+		manufactories = 0.5
+		enlightenment = 1
+		industrialization = 1
+	}
+
+	#Railroad
+	railroad = yes
+	trade_efficiency 		= 	0.02
+}
+

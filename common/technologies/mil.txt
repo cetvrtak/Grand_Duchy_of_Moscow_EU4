@@ -893,3 +893,26 @@ technology = {
 	artillery_shock		=	0.1
 	artillery_fire		=	2.0
 }
+
+technology = {
+	# Tech 33
+	year = 1848
+	expects_institution = {
+		feudalism = 0.5
+		renaissance = 0.5
+		new_world_i = 0.5
+		printing_press = 0.5
+		global_trade = 0.5
+		manufactories = 1
+		enlightenment = 1
+		industrialization = 1
+	}
+
+	#Percussion Cap
+	infantry_fire		=	0.5
+	military_tactics 	= 	0.5
+	combat_width 		= 	-3
+
+	enable = percussion_cap_musket
+}
+

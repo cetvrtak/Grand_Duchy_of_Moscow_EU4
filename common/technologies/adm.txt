@@ -514,3 +514,21 @@ technology = { #Four Field Rotation
 	#Four field rotation
 	production_efficiency 	=	0.02
 }
+
+technology = { #Electricity
+	# Tech 33
+	year = 1848
+	expects_institution = {
+		feudalism = 0.5
+		renaissance = 0.5
+		new_world_i = 0.5
+		printing_press = 0.5
+		global_trade = 0.5
+		manufactories = 0.5
+		enlightenment = 1
+		industrialization = 1
+	}
+
+	#Electricity
+	production_efficiency 	=	0.02
+}
