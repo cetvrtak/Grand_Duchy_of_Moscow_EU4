@@ -1,0 +1,91 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 191 68 86 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	influence_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abdul-Gafur #0" = 0
+	"Agathon #0" = 0
+	"Amr #1" = 10
+	"Baadindiye #0" = 0
+	"Bahir #1" = 10
+	"Boutros #0" = 0
+	"Burhanaddin #0" = 0
+	"Gulnar #0" = -1
+	"Hamar #1" = 10
+	"Hasan #1" = 10
+	"Husam #0" = 0
+	"Hussayn #1" = 10
+	"Isa #2" = 10
+	"Jabir #0" = 0
+	"Kamala #0" = -1
+	"Karima #0" = -1
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Layla #0" = -1
+	"Misagenes #0" = 0
+	"Parween #0" = -1
+	"Rashida #0" = -1
+	"Sabba #0" = -1
+	"Sadiq #0" = 0
+	"Samir #0" = 0
+	"Shararah #0" = -1
+	"Sheeva #0" = -1
+	"Shogofa #0" = -1
+	"Shokouh #0" = -1
+	"Suhail #2" = 10
+	"Taliba #0" = -1
+	"Taneen #0" = -1
+	"Tula #0" = 0
+	"Uways #0" = 0
+	"Yasmin #0" = -1
+	"Zaynab #0" = -1
+	"al-Mustali #1" = 10
+}
+leader_names = {
+	"Abbas"
+	"Chammas"
+	"Farhat"
+	"Hammoud"
+	"Ibrahim"
+	"Khalil"
+	"Mansour"
+	"Saleh"
+	"Taleb"
+	"Youssef"
+}
+ship_names = {
+	"Harrat Al-Buqum"
+	"Harrat Al-Kishb"
+	"Harrat Hadan"
+	"Harrat Khaybar"
+	"Harrat Kurama"
+	"Harrat Nawasif"
+	"Harrat Rahat"
+	"Harrat al-Unayyir"
+	"Hijaz"
+	"Jabal Abu Hasan"
+	"Jabal Baydan"
+	"Jabal Sawda"
+	"Jabal al-Jurayrah"
+	"Jeddah"
+	"Mecca"
+	"Medina"
+}

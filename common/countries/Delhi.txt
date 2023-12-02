@@ -1,0 +1,117 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 157 200 42 }
+revolutionary_colors = { 10 4 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	economic_ideas
+	defensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Agastya #0" = 0
+	"Ajala #0" = -1
+	"Annapurna #0" = -1
+	"Anupriya #0" = -1
+	"Bandana #0" = -1
+	"Barnali #0" = -1
+	"Bhavanaga #0" = -1
+	"Bishnu #0" = 0
+	"Chandrahas #0" = 0
+	"Chavundaraya #0" = 0
+	"Dattadevi #0" = -1
+	"Dayanita #0" = -1
+	"Dhruvadevi #0" = -1
+	"Durlabha #0" = -1
+	"Gandharavati #0" = -1
+	"Indra #0" = 0
+	"Janani #0" = -1
+	"Jayavarman #0" = 0
+	"Jhetpal #0" = 0
+	"Kamana #0" = -1
+	"Karmavati #0" = -1
+	"Khagendra #0" = 0
+	"Kuber #0" = 0
+	"Maharani #0" = -1
+	"Mahidevi #0" = -1
+	"Manaladevi #0" = -1
+	"Manmohan #0" = 0
+	"Mridul #0" = 0
+	"Nayanadevi #0" = -1
+	"Nrideva #0" = 0
+	"Pelden #0" = -1
+	"Purna #0" = 0
+	"Rajarshi #0" = 0
+	"Ratnadevi #0" = -1
+	"Ripu #0" = 0
+	"Ronak #2" = 10
+	"Sachchit #0" = 0
+	"Sadhvi #0" = -1
+	"Sajani #0" = -1
+	"Samyukta #0" = -1
+	"Sanyukta #0" = -1
+	"Satruijt #0" = 0
+	"Satyavrat #0" = 0
+	"Shailaja #0" = -1
+	"Shakuntala #0" = -1
+	"Shree #0" = -1
+	"Sunayana #0" = -1
+	"Uttar #0" = 0
+	"Vijnayavati #0" = -1
+}
+leader_names = {
+	"Ali"
+	"Azad"
+	"Bhutto"
+	"Hussein"
+	"Jahan"
+	"Khan"
+	"Lodi"
+	"Lohia"
+	"Musharif"
+	"Nagar"
+	"Nazimuddin"
+	"Ra'ana"
+	"Sharif"
+	"Sharma"
+	"Sinan"
+	"Singh"
+	"Viqar-ul-Mulk"
+}
+ship_names = {
+	"Alia"
+	"Chambal"
+	"Fatimah"
+	"Ganges"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Noor"
+	"Sagar"
+	"Spiti"
+	"Yamuna"
+	"Yasmine"
+}

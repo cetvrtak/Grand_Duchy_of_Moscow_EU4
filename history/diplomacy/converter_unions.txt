@@ -1,0 +1,136 @@
+union=
+{
+	first="BUL"
+	second="WAL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="FKN"
+	second="Z2L"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z44"
+	second="EFR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="BAR"
+	second="LOR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="HAN"
+	second="ANH"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="HAN"
+	second="BRU"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="HAN"
+	second="WES"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z2W"
+	second="Z0I"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="TTL"
+	second="MLO"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="CAS"
+	second="NAV"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SWA"
+	second="ALS"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z40"
+	second="Z4S"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="AAC"
+	second="SHL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="KOJ"
+	second="Z01"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="DAU"
+	second="BRB"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SCO"
+	second="IRE"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="AUG"
+	second="BAV"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+

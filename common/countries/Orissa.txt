@@ -1,0 +1,101 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 210 106 47 }
+revolutionary_colors = { 5 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ankâti #0" = -1
+	"Barjena #1" = 10
+	"Champo #0" = 0
+	"Cogrobza #0" = -1
+	"Dandi #0" = -1
+	"Devananda #0" = 0
+	"Durjaya #1" = 10
+	"Gaurimahadevi #1" = -1
+	"Govinda #0" = 0
+	"Janmejaya #1" = 10
+	"Jayakeshi #0" = 0
+	"Jetsunmo #0" = -1
+	"Kanchanastambha #0" = 0
+	"Laxmidevi #0" = -1
+	"Löntsen #0" = 0
+	"Mahadevi #0" = -1
+	"Mahinda #0" = 0
+	"Manggyel #0" = 0
+	"Marasimha #0" = 0
+	"Mingso #0" = 0
+	"Muné #0" = 0
+	"Nachana #0" = 0
+	"Pelden #0" = 0
+	"Puranjaya #1" = 10
+	"Sailobhava #0" = 0
+	"Tharahpi #0" = -1
+	"Tiruvênkatam #0" = -1
+	"Udyotakesari #1" = 10
+}
+leader_names = {
+	"Bhowarbar"
+	"Bidyadhar"
+	"Dassa"
+	"Deo"
+	"Deva"
+	"Gajapati"
+	"Kalinga"
+	"Nayudu"
+	"Patra"
+	"Poosapati"
+	"Rai"
+	"Ratha"
+	"Reddy"
+	"Roy"
+	"Santra"
+	"Singhar"
+	"Sinha"
+	"Uria"
+	"Vansa"
+	"Vasireddy"
+	"Velama"
+}
+ship_names = {
+	"Baitarani"
+	"Balasore"
+	"Balugaon"
+	"Behrampur"
+	"Bhubeneswar"
+	"Brahmani"
+	"Chandipur"
+	"Chilka"
+	"Cuttack"
+	"Durga"
+	"Gopalpur"
+	"Jagannath"
+	"Juggernaut"
+	"Kalijai"
+	"Konark"
+	"Lakshmi"
+	"Mahanadi"
+	"Nalabana"
+	"Paradeep"
+	"Parvati"
+	"Puri"
+	"Radha"
+	"Sarasvati"
+	"Satapada"
+}

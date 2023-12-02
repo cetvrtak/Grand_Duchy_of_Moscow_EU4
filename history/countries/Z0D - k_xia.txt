@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 2
+technology_group = chinese
+religion = vajrayana
+primary_culture = dynamic-oirats-culture-num1
+capital = 698
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Qara"
+		dynasty = "Mikemote"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1413.3.9
+		religion = vajrayana
+		culture = dynamic-oirats-culture-num1
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Annamma"
+		dynasty = "Vîrarâcêntirid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z0D
+		birth_date = 1412.6.7
+		death_date = 1472.6.7
+		female = yes
+		religion = hinduism
+		culture = tamil
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Ninguo"
+		monarch_name = "Ninguo"
+		dynasty = "Mikemote"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1430.7.29
+		death_date = 1495.7.29
+		female = yes
+		claim = 89
+		religion = vajrayana
+		culture = dynamic-oirats-culture-num1
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = well_connected_personality
+}
+1444.11.11= {
+	add_prestige = 175
+	add_treasury = 69
+}

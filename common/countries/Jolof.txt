@@ -1,0 +1,76 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 215 215 125 }
+revolutionary_colors = { 10 8 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	african_abyssinian_light_cavalry
+	african_hill_warfare
+	african_spearmen
+	african_western_franchise_warfare
+	mali_tribal_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+}
+monarch_names = {
+	"Ayasun #0" = -1
+	"Bonokai #1" = 10
+	"Cammue #0" = 0
+	"Faaduma #0" = -1
+	"Finda #0" = -1
+	"Garmenh #0" = -1
+	"Gblormehn #0" = -1
+	"Gborlormenh #0" = -1
+	"Gorpue #0" = -1
+	"Kparsi #0" = 0
+	"Luolay #0" = -1
+	"Miata #0" = -1
+	"Nenwon #1" = 10
+	"Nyanpue #0" = -1
+	"Pahn #0" = -1
+	"Paye #0" = 0
+	"Sarh #0" = 0
+	"Sisabge #0" = -1
+	"Suah #0" = 0
+	"Suleyman #0" = 0
+	"Telec #0" = 0
+	"Varney #0" = 0
+	"Weyatta #0" = -1
+	"Yarkpawolo #0" = 0
+	"Yeanue #0" = 0
+}
+leader_names = {
+	"Bakar"
+	"Birayamb"
+	"Daagulen"
+	"Dyakher"
+	"Fak"
+	"Keme"
+	"Kompass"
+	"Kuran Kan"
+	"Samba"
+	"Sare"
+}
+ship_names = {
+	"Gao"
+	"Jenne"
+	"Kankan Musa"
+	"Khalifa Keita"
+	"Kiringa"
+	"Koumbi Saleh"
+	"Kouroukan Fouga"
+	"Quati Keita"
+	"Sakura"
+	"Sundiata Keita"
+	"Timbuktu"
+	"Wali Keita"
+}

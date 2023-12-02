@@ -1,0 +1,91 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 53 191 176 }
+historical_idea_groups = {
+	trade_ideas
+	quality_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	quantity_ideas
+	offensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Aarif #1" = 10
+	"Azam #1" = 10
+	"Bahir #1" = 10
+	"Jibril #2" = 10
+	"Layla #0" = -1
+	"Parand #0" = -1
+	"Sahba #0" = -1
+	"Shaiban #1" = 10
+	"Shameem #0" = -1
+	"Shokouh #0" = -1
+	"Taliba #0" = -1
+	"Wattas #0" = 0
+	"Yusuf #1" = 10
+	"Zeyd #0" = 0
+}
+leader_names = {
+	"Balhaf"
+	"Bannu Zanna"
+	"Barafit"
+	"Harawiz"
+	"Kalshat"
+	"Kamsit"
+	"Riyam"
+	"Samudat"
+	"Thuwar"
+	"Zabanat"
+	"Ziyad"
+}
+ship_names = {
+	"Al-Akhdar"
+	"Al-Batinah"
+	"Al-Gharbi"
+	"Al-Hadd"
+	"Al-Hajar"
+	"Al-Huqf"
+	"Al-Jabal"
+	"Al-Khaburah"
+	"As-Sib"
+	"Ash-Sharqi"
+	"Dank"
+	"Fins"
+	"Ibrä"
+	"Jabal ash-Shäm"
+	"Masirah"
+	"Maskin"
+	"Masqat"
+	"Matrah"
+	"Nizwä"
+	"Quraqqät"
+	"Ra's Abu Daud"
+	"Ra's Al-Hadd"
+	"Ramlat al Wahibah"
+	"Sarür"
+	"Shinas"
+	"Suhar"
+	"Sür"
+	"Tan'am"
+	"Tiwi"
+	"Tur at Masirah"
+	"Umm As-Samim"
+	"Wadi Andam"
+	"Wadi Aswad"
+	"Wadi al-Bahta"
+}

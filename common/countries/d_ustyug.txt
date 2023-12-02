@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 132 95 227 }
+monarch_names = {
+	"Astrid #0" = -1
+	"Duttá #0" = 0
+	"Laptsui #0" = -1
+	"Nenyts #0" = 0
+	"Noumea #1" = 10
+	"Panay #1" = 10
+	"Pankko #0" = 0
+	"Salinder #1" = 10
+	"Suoinná #0" = -1
+	"Tada #1" = -1
+	"Teppana #0" = 0
+	"Trifon #0" = 0
+}

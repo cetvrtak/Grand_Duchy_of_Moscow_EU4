@@ -1,0 +1,59 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 2
+technology_group = sub_saharan
+religion = sunni
+primary_culture = nupe
+capital = 1161
+religious_school = hanbali_school
+add_accepted_culture = hausa
+add_accepted_culture = yorumba
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Amamchukwu"
+		dynasty = "Jukun"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1422.12.9
+		religion = sunni
+		culture = nupe
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Nwando"
+		dynasty = "Jukun"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z06
+		birth_date = 1422.5.30
+		death_date = 1482.5.30
+		female = yes
+		religion = sunni
+		culture = nupe
+	}
+	add_queen_personality = industrious_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Ekenedilichukwu"
+		monarch_name = "Ekenedilichukwu III"
+		dynasty = "Jukun"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1424.3.25
+		death_date = 1489.3.25
+		claim = 89
+		religion = sunni
+		culture = nupe
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11= {
+	add_prestige = 166
+	add_treasury = 0
+}

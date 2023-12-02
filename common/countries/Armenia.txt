@@ -1,0 +1,127 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 145 30 75 }
+revolutionary_colors = { 5 13 6 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Abas #1" = 10
+	"Aghavni #0" = -1
+	"Artashir #1" = 10
+	"Ashot #8" = 10
+	"Atrnerseh #1" = 10
+	"Bagrat #1" = 10
+	"Bibya #0" = -1
+	"Fadl #0" = 0
+	"Fayiz #0" = 0
+	"Gagik #2" = 10
+	"Grigor #5" = 10
+	"Hamazasp #1" = 10
+	"Idris #0" = 0
+	"Jibril #1" = 10
+	"Kutrigur #0" = 0
+	"Levon #2" = 10
+	"Lunja #0" = -1
+	"Mahdi #0" = 0
+	"Mariyam #0" = -1
+	"Mushel #2" = 10
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nafisa #0" = -1
+	"Nerseh #1" = 10
+	"Paywand #0" = -1
+	"Rashida #0" = -1
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sahak #1" = 10
+	"Sarkis #1" = 10
+	"Shahzadah #0" = -1
+	"Simin #0" = -1
+	"Smbat #6" = 10
+	"Songul #0" = -1
+	"Tanaz #0" = -1
+	"Taninna #0" = -1
+	"Thoros #2" = 10
+	"Ya'qub #0" = 0
+	"Yagana #0" = -1
+}
+leader_names = {
+	"Adamian"
+	"Adomian"
+	"Aghajanian"
+	"Altounyan"
+	"Apkarian"
+	"Babaian"
+	"Babikian"
+	"Bagian"
+	"Bhobanyan"
+	"Chobanian"
+	"Damadian"
+	"Eskandarian"
+	"Kapikian"
+	"Kazanjian"
+	"Kebabian"
+	"Kevorkian"
+	"Khachikyan"
+	"Khatchaturian"
+	"Kirlian"
+	"Mergelyan"
+	"Meymarian"
+	"Orbeli"
+	"Pogosyan"
+	"Sadian"
+	"Sevanian"
+	"Shahinian"
+	"Simjian"
+}
+ship_names = {
+	"Ani"
+	"Aramu"
+	"Ararat"
+	"Argishtis"
+	"Artsakh"
+	"Dvin"
+	"Erimena"
+	"Haik"
+	"Haldi"
+	"Ishpuinis"
+	"Kars"
+	"Lutipri"
+	"Manzikert"
+	"Menuas"
+	"Musasir"
+	"Parisos"
+	"Rusas II"
+	"Sarduri I"
+	"Sarduris II"
+	"Selardi"
+	"Siwini"
+	"Vaspurakan"
+	"Yerevan"
+}

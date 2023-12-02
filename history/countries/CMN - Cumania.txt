@@ -1,0 +1,35 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 2
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = cuman
+capital = 4692
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = tengri_pagan
+		culture = cuman
+	}
+	heir = {
+		name = "Menk II"
+		dynasty = "Terteroba"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1436.11.11
+		death_date = 1501.11.11
+		claim = 89
+		religion = tengri_pagan
+		culture = cuman
+	}
+}
+1444.11.11= {
+	add_prestige = 166
+	add_treasury = 60
+}

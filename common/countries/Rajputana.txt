@@ -1,0 +1,120 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 49 13 22 }
+historical_idea_groups = {
+	aristocracy_ideas
+	offensive_ideas
+	defensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ameya #0" = 0
+	"Chamundaraja #1" = 10
+	"Chanduka #1" = 10
+	"Chapala #0" = -1
+	"Chittaranjan #1" = 10
+	"Damayanti #0" = -1
+	"Deepaprabha #0" = -1
+	"Dipti #0" = -1
+	"Draupada #0" = 0
+	"Durlabharaja #2" = 10
+	"Ekalavya #0" = 0
+	"Govinda #1" = 10
+	"Harichandra #1" = 10
+	"Indrapal #1" = 10
+	"Isha #0" = -1
+	"Jagdev #2" = 10
+	"Jampa #0" = 0
+	"Jayadeva #0" = 0
+	"Jivan #0" = 0
+	"Kalasa #0" = 0
+	"Kamal #0" = 0
+	"Mrityunjay #0" = 0
+	"Nagabhata #1" = 10
+	"Naina #0" = -1
+	"Narabbhata #1" = 10
+	"Prasadhanadevi #0" = -1
+	"Prashansa #0" = -1
+	"Rajjila #1" = 10
+	"Rudramba #0" = -1
+	"Rudranarayan #0" = 0
+	"Sajit #0" = 0
+	"Sevati #0" = -1
+	"Shudhamati #0" = -1
+	"Siluka #1" = 10
+	"Simghata #1" = 10
+	"Singhraja #1" = 10
+	"Subhas #0" = 0
+	"Sudhi #0" = -1
+	"Sultanpala #0" = 0
+	"Tata #1" = 10
+	"Turvi #0" = -1
+	"Vakapati #1" = 10
+	"Vigraharaja #1" = 10
+	"Viryarama #2" = 10
+	"Yashovardhana #1" = 10
+}
+leader_names = {
+	"Bargujar"
+	"Bhaal"
+	"Bhati"
+	"Chandela"
+	"Chauhan"
+	"Chudasama"
+	"Chundawa"
+	"Das"
+	"Gohil"
+	"Jadeja"
+	"Jadon"
+	"Khumba"
+	"Mori"
+	"Pratap"
+	"Sahu"
+	"Saran"
+	"Singh"
+	"Sisodiya"
+	"Tomara"
+	"Vaghela"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Ghaggar"
+	"Godwar"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Luni"
+	"Merwar ka Nav"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Padmini"
+	"Parvati"
+	"Radha"
+	"Rani"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sekhawati"
+	"Sita"
+}

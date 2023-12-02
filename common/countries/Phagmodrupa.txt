@@ -1,0 +1,118 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 93 102 151 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Balavarman #0" = 0
+	"Bhogavati #0" = -1
+	"Bönkyi #0" = 0
+	"Böntok #0" = 0
+	"Cankâni #0" = -1
+	"Cantirâdêvi #0" = -1
+	"Eccumantai #0" = -1
+	"Himadrija #0" = -1
+	"Indrapala #0" = 0
+	"Irâcarâca #0" = 0
+	"Jinpo #0" = 0
+	"Jojiri #0" = -1
+	"Khadi #0" = 0
+	"Khemsing #0" = -1
+	"Kyidé #0" = 0
+	"Kôpperuñcimman #1" = 10
+	"Künzang #0" = 0
+	"Lasthiyavva #0" = -1
+	"Mongza #0" = -1
+	"Nakdé #0" = 0
+	"Namzhungtsen #0" = 0
+	"Nytari #0" = 0
+	"Parânkucan #0" = 0
+	"Puvirâca #0" = 0
+	"Ratnadevi #0" = -1
+	"Ravivarman #1" = 10
+	"Sey #1" = 10
+	"Tridring #0" = 0
+	"Tséten #0" = 0
+	"Tânatonkiyâr #0" = -1
+	"Vîracêkara #0" = 0
+	"Zhyelmo #1" = -1
+	"Zopa #0" = 0
+}
+leader_names = {
+	"Bal"
+	"Bri"
+	"Bro"
+	"Chespong"
+	"Cogro"
+	"Dbas"
+	"Dbra"
+	"Dru"
+	"Gnon"
+	"Gnyags"
+	"Khjungpo"
+	"Khu"
+	"Khun"
+	"Lang"
+	"Ldong"
+	"Lig"
+	"Mchims"
+	"Mgar"
+	"Mgus"
+	"Mjang"
+	"Mkar"
+	"Mnyammed"
+	"Mong"
+	"Nganlam"
+	"Nyang"
+	"Phjongsrgjas"
+	"Rinspungs"
+	"Rlangs"
+	"Rma"
+	"Rmu"
+	"Sba"
+	"Sbas"
+	"Se"
+	"Sgro"
+	"Shudpu"
+	"Snang"
+	"Snyiba"
+	"Stong"
+	"Thonmi"
+	"Zhang"
+	"Zhingshag"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

@@ -1,0 +1,77 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 136 157 23 }
+revolutionary_colors = { 15 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	administrative_ideas
+	quality_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Kabuksin #0" = 0
+	"Mikhail #0" = 0
+	"Mstislav #1" = 10
+	"Sophia #0" = -1
+	"Tautvila #0" = 0
+	"Tyrach #1" = 10
+	"Çilen #1" = -1
+}
+leader_names = {
+	"Callimachi"
+	"Campineanu"
+	"Cantacuzino"
+	"Cantemir"
+	"Caragea"
+	"Craiovescu"
+	"Duca"
+	"Ghica"
+	"Ilias"
+	"Lupu"
+	"Mavrocordat"
+	"Moruzi"
+	"Movila"
+	"Musatin"
+	"Norocea"
+	"Racovita"
+	"Ruset"
+	"Sturdza"
+	"Sutu"
+	"Voda"
+}
+ship_names = {
+	"Athleta Christi"
+	"Baia"
+	"Bogdan I"
+	"Iuga"
+	"Moldova"
+	"Râul Prut"
+	"Stefan cel Mare"
+	"Suceava"
+	"Târgul Moldovei"
+	"Vaslui"
+}
+army_names = {
+	"Oastea de $PROVINCE$"
+}

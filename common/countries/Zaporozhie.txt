@@ -1,0 +1,89 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 117 112 131 }
+revolutionary_colors = { 2 8 2 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Almanch #0" = 0
+	"Asalup #0" = 0
+	"Ayla #0" = -1
+	"Ayampi #0" = -1
+	"Barmaq #1" = 10
+	"Bönek #0" = 0
+	"Chumbulat #0" = 0
+	"Girgen #1" = 10
+	"Gzi #0" = 0
+	"Kezhapa #0" = 0
+	"Khalim #1" = 10
+	"Könçek #0" = 0
+	"Sernyava #0" = -1
+	"Sherip #1" = 10
+	"Zakhite #0" = -1
+	"0htirek #1" = 10
+}
+leader_names = {
+	"Andrukhovych"
+	"Cheremshyna"
+	"Dukhnovych"
+	"Holovatskyi"
+	"Hutsalo"
+	"Khvylovy"
+	"Kobylyanska"
+	"Korniychuk"
+	"Kostomarov"
+	"Kulish"
+	"Kvitka"
+	"Marinina"
+	"Palahniuk"
+	"Pokalchuk"
+	"Shashkevych"
+	"Stefanyk"
+	"Stelmakh"
+	"Tobilevich"
+	"Vovchok"
+	"Vyshnia"
+	"Zabara"
+}
+ship_names = {
+	"Akimivka"
+	"Dnieper"
+	"Energodar"
+	"Guliajpole"
+	"Khortytsia"
+	"Melitopol"
+	"Mikhaylovka"
+	"Orekhov"
+	"Pologi"
+	"Tokmak"
+	"Vesele"
+	"Viliansk"
+	"Zaporizhia Sich"
+	"Zaporozhian Voisko"
+}

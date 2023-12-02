@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = grand_duchy_reform
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = latvian
+capital = 1935
+add_accepted_culture = estonian
+1444.11.11= {
+	monarch = {
+		name = "Lammekinus"
+		dynasty = "von Kurs"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1398.7.2
+		religion = orthodox
+		culture = latvian
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Greze"
+		dynasty = "von Kurs"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = KUR
+		birth_date = 1398.6.24
+		death_date = 1458.6.24
+		female = yes
+		religion = orthodox
+		culture = latvian
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Gunda"
+		monarch_name = "Gunda"
+		dynasty = "von Kurs"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1418.8.23
+		death_date = 1483.8.23
+		female = yes
+		claim = 89
+		religion = orthodox
+		culture = latvian
+	}
+	add_heir_personality = tactical_genius_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 160
+	add_treasury = 62
+}

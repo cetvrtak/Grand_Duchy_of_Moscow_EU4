@@ -1,0 +1,31 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 188 238 234 }
+revolutionary_colors = { 7 0 7 }
+historical_idea_groups = {
+	trade_ideas
+	economic_ideas
+	quality_ideas
+	spy_ideas
+	defensive_ideas
+	administrative_ideas
+	diplomatic_ideas
+	quantity_ideas
+}
+monarch_names = {
+	"Alik #1" = 10
+	"Atpälha #0" = -1
+	"Candido #0" = 0
+	"Kat #0" = -1
+	"Kontäw #0" = -1
+	"Mandak #1" = 10
+	"Nga #1" = 10
+	"Ngeva #1" = -1
+	"Ngënoh #0" = 0
+	"Num #0" = 0
+	"Oajá #0" = -1
+	"Sarak #2" = 10
+	"Syeju #0" = -1
+	"Tolik #0" = 0
+	"Yar #0" = 0
+}

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 476
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Gzak"
+		dynasty = "Karasorkaliq"
+		adm = 3
+		dip = 3
+		mil = 2
+		birth_date = 1389.1.11
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Çilen"
+		dynasty = "Astan"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z1X
+		birth_date = 1401.5.30
+		death_date = 1461.5.30
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Kozel"
+		monarch_name = "Kozel"
+		dynasty = "Karasorkaliq"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1414.2.25
+		death_date = 1479.2.25
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = bold_fighter_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 187
+	add_treasury = 57
+}

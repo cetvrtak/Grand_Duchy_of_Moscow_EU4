@@ -1,0 +1,82 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 230 225 110 }
+revolutionary_colors = { 9 16 1 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	naval_ideas
+	administrative_ideas
+	offensive_ideas
+	economic_ideas
+	expansion_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_cavalry_archers
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Aflah #1" = 10
+	"Aksel #0" = 0
+	"Azenet #0" = -1
+	"Bagay #0" = 0
+	"Fath #0" = 0
+	"Ibiza #0" = 0
+	"Khalid #0" = 0
+	"Lewnis #0" = 0
+	"Masgaba #0" = 0
+	"Mastan #0" = 0
+	"Rashid #0" = 0
+	"Yahya #0" = 0
+	"Yunes #1" = 10
+}
+leader_names = {
+	"Amara"
+	"Behar"
+	"Benzai"
+	"Benzine"
+	"Essaid"
+	"Hacini"
+	"Ilaes"
+	"Kelkal"
+	"Merah"
+	"Selmi"
+}
+ship_names = {
+	"Akhir"
+	"Awwal"
+	"Ba'ith"
+	"Barr"
+	"Batin"
+	"Hamid"
+	"Haqq"
+	"Hayy"
+	"Majid"
+	"Matin"
+	"Mu'akhkhir"
+	"Mu'id"
+	"Mubdi"
+	"Muhsi"
+	"Muhyi"
+	"Mumit"
+	"Muqaddim"
+	"Muqtadir"
+	"Muta'al"
+	"Qadir"
+	"Qawiyy"
+	"Qayyum"
+	"Samad"
+	"Shahid"
+	"Wahid"
+	"Wajed"
+	"Wakil"
+	"Wali"
+	"Waliyy"
+	"Zahir"
+}

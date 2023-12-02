@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 64 45 45 }
+monarch_names = {
+	"Altana #0" = -1
+	"Ariq #1" = 10
+	"Arugtai #2" = 10
+	"Arya #0" = 0
+	"Azarga #0" = 0
+	"Baldan #0" = 0
+	"Belikto #0" = 0
+	"Bolot #0" = 0
+	"Elbeg #0" = 0
+	"Innokentii #0" = 0
+	"Medegma #0" = -1
+	"Sambuu #0" = 0
+	"Seseg #0" = -1
+	"Temyulen #0" = -1
+	"Toq #1" = 10
+	"Tsyrma #0" = -1
+	"Tuyana #0" = -1
+}

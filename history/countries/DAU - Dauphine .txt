@@ -1,0 +1,56 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = cosmopolitan_french
+capital = 204
+mercantilism = 25
+1444.11.11= {
+	monarch = {
+		name = "Isabelle"
+		dynasty = "Bosonid"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1411.1.7
+		female = yes
+		religion = catholic
+		culture = cosmopolitan_french
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Erich"
+		dynasty = "von Köln"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = DAU
+		birth_date = 1420.7.4
+		death_date = 1480.7.4
+		religion = catholic
+		culture = dutch
+	}
+	add_queen_personality = malevolent_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Gottfried"
+		monarch_name = "Gottfried"
+		dynasty = "Chatenois"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 1429.6.8
+		death_date = 1494.6.8
+		claim = 89
+		religion = catholic
+		culture = franconian
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 178
+	add_treasury = 75
+}

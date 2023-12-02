@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = old_pommeranian
+capital = 1858
+add_accepted_culture = sorbian
+1444.11.11= {
+	monarch = {
+		name = "Ksenia"
+		dynasty = "ze Slupska"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1386.2.4
+		female = yes
+		religion = catholic
+		culture = old_pommeranian
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = free_thinker_personality
+	queen = {
+		name = "Wladyslaw"
+		dynasty = "Majek"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = POM
+		birth_date = 1396.2.13
+		death_date = 1456.2.13
+		religion = catholic
+		culture = dynamic-polish-culture-num1
+	}
+	add_queen_personality = expansionist_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Janusz"
+		monarch_name = "Janusz"
+		dynasty = "ze Slupska"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1421.3.18
+		death_date = 1486.3.18
+		claim = 89
+		religion = catholic
+		culture = old_pommeranian
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = industrious_personality
+}
+1444.11.11= {
+	add_prestige = 207
+	add_treasury = 0
+}

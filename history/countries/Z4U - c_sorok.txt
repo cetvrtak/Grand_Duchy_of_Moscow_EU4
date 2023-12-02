@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = nomad_group
+religion = tengri_pagan
+primary_culture = kirgiz
+capital = 480
+fixed_capital = 480
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Umay"
+		dynasty = "Kokun"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1389.12.13
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = embezzler_personality
+	queen = {
+		name = "Bachman"
+		dynasty = "Bachman"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z4U
+		birth_date = 1388.11.9
+		death_date = 1448.11.9
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = industrious_personality
+	heir = {
+		name = "Irge"
+		monarch_name = "Irge"
+		dynasty = "Bachman"
+		adm = 4
+		dip = 5
+		mil = 6
+		birth_date = 1420.9.1
+		death_date = 1485.9.1
+		female = yes
+		claim = 89
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_heir_personality = malevolent_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 169
+	add_treasury = 69
+}

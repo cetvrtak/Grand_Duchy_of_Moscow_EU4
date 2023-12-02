@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = castillian
+capital = 212
+add_accepted_culture = aragonese
+1444.11.11= {
+	monarch = {
+		name = "Jimeno"
+		dynasty = "Jimena-Perpinyà"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 1395.12.16
+		religion = catholic
+		culture = castillian
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = greedy_personality
+	queen = {
+		name = "Estefania"
+		dynasty = "de Barcelona"
+		adm = 5
+		dip = 2
+		mil = 5
+		country_of_origin = CAT
+		birth_date = 1397.4.20
+		death_date = 1457.4.20
+		female = yes
+		religion = catholic
+		culture = aragonese
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Gerardo"
+		monarch_name = "Gerardo"
+		dynasty = "Jimena-Perpinyà"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 1422.1.5
+		death_date = 1487.1.5
+		claim = 89
+		religion = catholic
+		culture = castillian
+	}
+	add_heir_personality = greedy_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 183
+	add_treasury = 0
+	excommunicate = CAT
+}

@@ -1,0 +1,18 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 165 35 45 }
+monarch_names = {
+	"Balad #0" = 0
+	"Berhanu #1" = 10
+	"Berhanua #0" = 0
+	"Hanfere #1" = 10
+	"Loua #1" = 10
+	"Mengesha #0" = 0
+	"Nahwi #0" = 0
+	"Nassir #1" = 10
+	"Omer #1" = 10
+	"Sheba #0" = -1
+	"Shinasha #0" = -1
+	"Sisay #0" = 0
+	"Zeïnab #0" = -1
+}

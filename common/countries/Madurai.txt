@@ -1,0 +1,127 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 233 88 88 }
+revolutionary_colors = { 1 0 1 }
+historical_idea_groups = {
+	quantity_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abhayapala #0" = 0
+	"Accattêvi #0" = -1
+	"Aparâcitavarman #0" = 0
+	"Ariyapillai #0" = -1
+	"Ariñcaya #1" = 10
+	"Ariñcikai #0" = -1
+	"Arulmolivarman #1" = 10
+	"Atirâjêntira #3" = 10
+	"Baghpal #0" = 0
+	"Bhumpal #0" = 0
+	"Candala #0" = -1
+	"Ceyyavâymani #0" = -1
+	"Chandaladevi #0" = -1
+	"Chandanaraja #1" = 10
+	"Cuntara #1" = 10
+	"Damayanti #0" = -1
+	"Delhanadevi #0" = -1
+	"Gangambika #0" = -1
+	"Govindachandra #0" = 0
+	"Hammira #0" = 0
+	"Hariharamba #0" = -1
+	"Irâcâtirâca #1" = 10
+	"Irâcêntira #2" = 10
+	"Jayat-Singh #0" = 0
+	"Jayavarman #0" = 0
+	"Kanaguta #0" = -1
+	"Kantarâtitta #1" = 10
+	"Kirâmarâcapattan #0" = 0
+	"Kotukulapattan #0" = 0
+	"Kumaradevi #0" = -1
+	"Kutameratiruvatikal #1" = 10
+	"Lakshmi #0" = -1
+	"Lilavati #0" = -1
+	"Mahalakshmi #0" = -1
+	"Mattat #0" = 0
+	"Mâtevipattan #0" = 0
+	"Nagdeo #0" = 0
+	"Naltêviyâr #0" = -1
+	"Narendranarayan #0" = 0
+	"Nijjayaraja #0" = 0
+	"Obayamma #0" = -1
+	"Parântaka #1" = 10
+	"Ramachandra #0" = 0
+	"Ranamarda #0" = 0
+	"Ravivarman #0" = 0
+	"Somalladevi #0" = -1
+	"Thirumalambike #0" = -1
+	"Tiruvânaikkâvi #0" = -1
+	"Tribhuvanapala #0" = 0
+	"Udayamati #0" = -1
+	"Uttama #1" = 10
+	"Vaccavaiyâr #0" = -1
+	"Valhana #0" = 0
+	"Varakuni #0" = -1
+	"Vatavâyil #0" = -1
+	"Vigrahapala #0" = 0
+	"Vigrharaja #0" = 0
+	"Vijamba #0" = -1
+	"Vijaya #0" = 0
+	"Vîrarâcêntira #2" = 10
+}
+leader_names = {
+	"Chetty"
+	"Dalawa"
+	"Mudaliar"
+	"Nayak"
+	"Rajapopalachari"
+	"Saluva"
+	"Saraf"
+	"Sastri"
+	"Senji"
+	"Thondaiman"
+}
+ship_names = {
+	"Amirtha"
+	"Amman"
+	"Arul"
+	"Chellam"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Iniya"
+	"Kaveri"
+	"Lakshmi"
+	"Madhu"
+	"Meenakshi"
+	"Nalini"
+	"Palar"
+	"Parvati"
+	"Pennar"
+	"Ponnaiyar"
+	"Ponni"
+	"Radha"
+	"Ratri"
+	"Sarasvati"
+	"Sita"
+	"Tamarai"
+	"Vaigai"
+}

@@ -1,0 +1,394 @@
+### National idea groups generated via cultural traditions. 
+
+dynamic-bedouin_arabic-somali-culture-num1_ideas = {
+	start = {
+		 monarch_lifespan = 0.1
+		 all_estate_loyalty_equilibrium = 0.05
+	}
+	trigger = {
+		culture = dynamic-bedouin_arabic-somali-culture-num1
+	}
+	free = yes
+
+	tradition_mubarizuns = {
+		special_unit_forcelimit = 0.05
+		reserves_organisation = -0.05
+	}
+	tradition_horn_mountain_skirmishing = {
+		special_unit_forcelimit = 0.05
+		global_supply_limit_modifier = 0.10
+	}
+	tradition_dryland_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_maritime_mercantilism = {
+		mercantilism_cost = -0.2
+	}
+	tradition_caravaneers = {
+		caravan_power = 0.2
+	}
+	tradition_desert_nomads = {
+		cavalry_shock = 1
+	}
+	tradition_poetry = {
+		dip_tech_cost_modifier = -0.15
+	}
+	bonus = {
+		discipline = 0.025
+	}
+}
+
+
+dynamic-tajik-oghuz-culture-num1_ideas = {
+	start = {
+		 missionaries = 1
+		 religious_unity = 0.10
+	}
+	trigger = {
+		culture = dynamic-tajik-oghuz-culture-num1
+	}
+	free = yes
+
+	tradition_swords_for_hire = {
+		possible_condottieri = 1
+	}
+	tradition_dryland_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_caravaneers = {
+		caravan_power = 0.2
+	}
+	tradition_horse_lords = {
+		cavalry_power = 0.10
+	}
+	tradition_warrior_culture = {
+		monarch_military_power = 2
+		monarch_diplomatic_power = -1
+	}
+	tradition_philosopher_culture = {
+		adm_tech_cost_modifier = -0.15
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	bonus = {
+		global_tax_modifier = 0.05
+	}
+}
+
+
+dynamic-oirats-culture-num1_ideas = {
+	start = {
+		 same_culture_advisor_cost = -0.25
+		 global_heretic_missionary_strength = 0.03
+	}
+	trigger = {
+		culture = dynamic-oirats-culture-num1
+	}
+	free = yes
+
+	tradition_court_eunuchs = {
+		adm_advisor_cost = -0.2
+	}
+	tradition_pastoralists = {
+		global_trade_goods_size_modifier = 0.05
+		global_manpower_modifier = 0.05
+	}
+	tradition_horse_lords = {
+		cavalry_power = 0.10
+	}
+	tradition_steppe_tolerance = {
+		religious_unity = 0.25
+		horde_unity = 1
+	}
+	tradition_religion_blending = {
+		tolerance_heathen = 1
+		tolerance_heretic = 1
+	}
+	tradition_religious_patronage = {
+		institution_spread_from_true_faith = 0.15
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	bonus = {
+		global_tax_modifier = 0.05
+	}
+}
+
+
+dynamic-chihan-culture-num1_ideas = {
+	start = {
+		 num_accepted_cultures = 1
+		 advisor_pool = 1
+	}
+	trigger = {
+		culture = dynamic-chihan-culture-num1
+	}
+	free = yes
+
+	tradition_pastoralists = {
+		global_trade_goods_size_modifier = 0.05
+		global_manpower_modifier = 0.05
+	}
+	tradition_dryland_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_hunters = {
+		trade_efficiency = 0.1
+	}
+	tradition_talent_acquisition = {
+		free_leader_pool = 1
+		general_cost = -0.10
+	}
+	tradition_reverence_for_veterans = {
+		innovativeness_gain = 0.5
+		army_tradition_decay = -0.01
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	increase_taxation = {
+		global_tax_modifier = 0.05
+	}
+	bonus = {
+		merc_maintenance_modifier = -0.10
+	}
+}
+
+
+dynamic-polish-culture-num1_ideas = {
+	start = {
+		 monarch_lifespan = 0.1
+		 all_estate_loyalty_equilibrium = 0.05
+	}
+	trigger = {
+		culture = dynamic-polish-culture-num1
+	}
+	free = yes
+
+	tradition_hussar = {
+		special_unit_forcelimit = 0.05
+		cavalry_flanking = 0.20
+	}
+	tradition_esteemed_hospitality = {
+		diplomatic_annexation_cost = -0.2
+	}
+	tradition_hunters = {
+		trade_efficiency = 0.1
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	increase_taxation = {
+		global_tax_modifier = 0.05
+	}
+	cheaper_mercenaries = {
+		merc_maintenance_modifier = -0.10
+	}
+	increased_trade_power = {
+		global_trade_power = 0.05
+	}
+	bonus = {
+		global_manpower_modifier = 0.05
+	}
+}
+
+
+dynamic-bedouin_arabic-beja-culture-num1_ideas = {
+	start = {
+		 same_culture_advisor_cost = -0.25
+		 global_heretic_missionary_strength = 0.03
+	}
+	trigger = {
+		culture = dynamic-bedouin_arabic-beja-culture-num1
+	}
+	free = yes
+
+	tradition_warriors_of_the_dry = {
+		global_supply_limit_modifier = 0.10
+	}
+	tradition_mubarizuns = {
+		special_unit_forcelimit = 0.05
+		reserves_organisation = -0.05
+	}
+	tradition_horn_mountain_skirmishing = {
+		special_unit_forcelimit = 0.05
+		global_supply_limit_modifier = 0.10
+	}
+	tradition_tribe_unity = {
+		governing_cost = 0.8
+	}
+	tradition_isolationist = {
+		stability_cost_modifier = -0.25
+		diplomatic_upkeep = -1
+	}
+	tradition_caravaneers = {
+		caravan_power = 0.2
+	}
+	tradition_desert_nomads = {
+		cavalry_shock = 1
+	}
+	bonus = {
+		discipline = 0.025
+	}
+}
+
+
+dynamic-kurdish-al_suryah_arabic-culture-num1_ideas = {
+	start = {
+		 missionaries = 1
+		 religious_unity = 0.10
+	}
+	trigger = {
+		culture = dynamic-kurdish-al_suryah_arabic-culture-num1
+	}
+	free = yes
+
+	tradition_futuwaa = {
+		special_unit_forcelimit = 0.05
+		global_manpower_modifier = 0.10
+	}
+	tradition_mubarizuns = {
+		special_unit_forcelimit = 0.05
+		reserves_organisation = -0.05
+	}
+	tradition_mountain_homes = {
+		development_cost = -0.1
+	}
+	tradition_dryland_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_medicinal_plants = {
+		global_spy_defence = 0.1
+	}
+	tradition_philosopher_culture = {
+		adm_tech_cost_modifier = -0.15
+	}
+	tradition_eye_for_an_eye = {
+		spy_offence = 0.1
+		power_projection_from_insults = 0.2
+	}
+	bonus = {
+		prestige = 0.5
+	}
+}
+
+
+dynamic-al_suryah_arabic-oghuz-culture-num1_ideas = {
+	start = {
+		 yearly_army_professionalism = 0.01
+		 land_forcelimit = 4
+	}
+	trigger = {
+		culture = dynamic-al_suryah_arabic-oghuz-culture-num1
+	}
+	free = yes
+
+	tradition_swords_for_hire = {
+		possible_condottieri = 1
+	}
+	tradition_reverence_for_veterans = {
+		innovativeness_gain = 0.5
+		army_tradition_decay = -0.01
+	}
+	tradition_mubarizuns = {
+		special_unit_forcelimit = 0.05
+		reserves_organisation = -0.05
+	}
+	tradition_dryland_dwellers = {
+		development_cost = -0.1
+	}
+	tradition_horse_lords = {
+		cavalry_power = 0.10
+	}
+	tradition_medicinal_plants = {
+		global_spy_defence = 0.1
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	bonus = {
+		global_tax_modifier = 0.05
+	}
+}
+
+
+dynamic-russian_culture-vepsian-culture-num1_ideas = {
+	start = {
+		 num_accepted_cultures = 1
+		 advisor_pool = 1
+	}
+	trigger = {
+		culture = dynamic-russian_culture-vepsian-culture-num1
+	}
+	free = yes
+
+	tradition_druzhina = {
+		special_unit_forcelimit = 0.05
+		infantry_shock = 1
+	}
+	tradition_isolationist = {
+		stability_cost_modifier = -0.25
+		diplomatic_upkeep = -1
+	}
+	tradition_xenophilic = {
+		num_accepted_cultures = 1
+	}
+	tradition_music_theory = {
+		prestige = 1
+	}
+	tradition_mendicant_mystics = {
+		merchants = 1
+	}
+	tradition_welcoming = {
+		diplomatic_upkeep = 1
+	}
+	tradition_reverence_for_veterans = {
+		innovativeness_gain = 0.5
+		army_tradition_decay = -0.01
+	}
+	bonus = {
+		discipline = 0.025
+	}
+}
+
+
+dynamic-avadhi-culture-num1_ideas = {
+	start = {
+		 yearly_army_professionalism = 0.01
+		 land_forcelimit = 4
+	}
+	trigger = {
+		culture = dynamic-avadhi-culture-num1
+	}
+	free = yes
+
+	tradition_ruling_caste = {
+		global_rebel_suppression_efficiency = 0.2
+		improve_relation_modifier = -0.05
+	}
+	tradition_court_eunuchs = {
+		adm_advisor_cost = -0.2
+	}
+	tradition_lords_of_the_elephant = {
+		cavalry_power = 0.15
+	}
+	tradition_language_scholars = {
+		monarch_diplomatic_power = 1
+	}
+	increase_discipline = {
+		discipline = 0.025
+	}
+	increase_taxation = {
+		global_tax_modifier = 0.05
+	}
+	cheaper_mercenaries = {
+		merc_maintenance_modifier = -0.10
+	}
+	bonus = {
+		global_trade_power = 0.05
+	}
+}
+
+

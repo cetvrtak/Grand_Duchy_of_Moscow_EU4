@@ -1,0 +1,107 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 122 179 97 }
+revolutionary_colors = { 8 5 0 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ama #1" = 10
+	"Amritnarayan #0" = 0
+	"Asima #0" = -1
+	"Bhagabhadra #1" = 10
+	"Bhavesh #0" = 0
+	"Bhogavati #0" = -1
+	"Bhoja #2" = 10
+	"Dondhen #0" = -1
+	"Dundaka #1" = 10
+	"Govindachandra #1" = 10
+	"Indrayudha #1" = 10
+	"Jira #0" = -1
+	"Laxminath Singh Dev #0" = 0
+	"Mahendrapala #2" = 10
+	"Mahipala #1" = 10
+	"Mangalal #0" = -1
+	"Nagabhata #1" = 10
+	"Naravarman #0" = 0
+	"Nayanadevi #0" = -1
+	"Nyimagön #0" = 0
+	"Parikshitnayaran #0" = 0
+	"Pusyamitra #1" = 10
+	"Rajabhata #0" = 0
+	"Ramabhadra #1" = 10
+	"Rangraj #0" = 0
+	"Ratnaprabha #0" = -1
+	"Rudaladevi #0" = -1
+	"Salivaahan #0" = 0
+	"Syamadevi #0" = -1
+	"Trailokyavarman #0" = 0
+	"Vajrayudha #1" = 10
+	"Vigrahapala #0" = 0
+	"Vijnayavati #0" = -1
+	"Yasovarman #1" = 10
+	"Zam #1" = 10
+}
+leader_names = {
+	"Afridi"
+	"Awadhi"
+	"Bahadur"
+	"Bangash"
+	"Chand"
+	"Ghori"
+	"Hindustani"
+	"Karrani"
+	"Khan"
+	"Khilji"
+	"Lodi"
+	"Pundir"
+	"Sahgal"
+	"Sarwar"
+	"Satsangi"
+	"Sharqi"
+	"Siddiqui"
+	"Uzbek"
+	"Yousafzai"
+	"ud Daula"
+}
+ship_names = {
+	"Alia"
+	"Betwa"
+	"Fatimah"
+	"Gandak"
+	"Ghagra"
+	"Gomti"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Satlaj"
+	"Yamuna"
+	"Yasmine"
+}

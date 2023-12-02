@@ -1,0 +1,76 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 39 108 140 }
+revolutionary_colors = { 5 14 0 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	maritime_ideas
+	diplomatic_ideas
+	quality_ideas
+	economic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Basillike #0" = -1
+	"Josif #1" = 10
+	"Josip #1" = 10
+	"Mihajlo #1" = 10
+	"Mstislav #0" = 0
+	"Stefan #2" = 10
+	"Tihomir #1" = 10
+	"Vladimir #2" = 10
+	"Vojislav #1" = 10
+}
+leader_names = {
+	"Balsic"
+	"Baulica"
+	"Berici"
+	"Bivolici"
+	"Boljevic"
+	"Buca"
+	"Crnojevic"
+	"Drago"
+	"Grblji"
+	"Komanin"
+	"Kornecanin"
+	"Kosaca"
+	"Lukovici"
+	"Martinovitci"
+	"Njegos"
+	"Pastrovici"
+	"Petrovici"
+	"Radari"
+	"Srdjici"
+	"Sundecic"
+}
+ship_names = {
+	"Balsa I"
+	"Cetinje"
+	"Crna Gora"
+	"Duklja"
+	"Jadransko more"
+	"Jovan Vladimir"
+	"Mihajlo I"
+	"Podgorica"
+	"Vojislavljevic"
+	"Zeta"
+}

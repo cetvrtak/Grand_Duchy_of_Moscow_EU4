@@ -1,0 +1,102 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 215 12 64 }
+revolutionary_colors = { 13 16 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	reformed_mughal_musketeer
+}
+monarch_names = {
+	"Aashish #0" = 0
+	"Bidha #0" = -1
+	"Bumden #0" = -1
+	"Choje #0" = 0
+	"Domchu #0" = 0
+	"Gyalpo #0" = 0
+	"Jangcchub #0" = 0
+	"Kunchen #1" = 10
+	"Kungcho #0" = -1
+	"Kâmuttiri #0" = -1
+	"Lemo #1" = -1
+	"Maya #0" = -1
+	"Pemo #0" = -1
+	"Phurba #0" = -1
+	"Praudharaya #0" = 0
+	"Selden #0" = -1
+	"Sharpa #0" = 0
+	"Sidi #0" = -1
+	"Suvrata #0" = -1
+	"Tangbi #0" = 0
+	"Tashiganpa #0" = 0
+	"Thrisong #0" = -1
+	"Thuiji #1" = -1
+	"Wangdicholing #0" = -1
+	"Wangzob #0" = 0
+	"Wangzom #0" = 0
+}
+leader_names = {
+	"Bahadur"
+	"Bikram"
+	"Chand"
+	"Chhettri"
+	"Dev"
+	"Gurung"
+	"Koirala"
+	"Limbu"
+	"Madhesi"
+	"Magar"
+	"Malla"
+	"Rai"
+	"Rana"
+	"Thapa"
+	"Yadav"
+}
+ship_names = {
+	"Arun"
+	"Behri"
+	"Bhote Kosi"
+	"Devi"
+	"Dudh Kosi"
+	"Durga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali Gandaki"
+	"Karnali"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Narayani"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rapti"
+	"Ratri"
+	"Sagar"
+	"Sapt Kosi"
+	"Sarasvati"
+	"Seti"
+	"Sita"
+	"Sun Kosi"
+	"Trishuli"
+}

@@ -1,0 +1,133 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 38 101 255 }
+revolutionary_colors = { 16 8 13 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Bhogavati #0" = -1
+	"Chéchentsa Tsédé #1" = 10
+	"Cimmavisnu #0" = 0
+	"Civallapatevi #0" = -1
+	"Dolkar #0" = -1
+	"Détsukgön #0" = 0
+	"Gandharavati #0" = -1
+	"Gungsrong Gungtsen #1" = 10
+	"Ipekel #0" = -1
+	"Irattapadikonda #0" = 0
+	"Irâcarâca #0" = 0
+	"Jakha #0" = 0
+	"Kanavati #0" = -1
+	"Kilân #0" = 0
+	"Kotukulapattan #0" = 0
+	"Kulôttunka #0" = 0
+	"Kurian #0" = 0
+	"Lakshmikaradevi #0" = -1
+	"Makêntiravarman #0" = 0
+	"Maturantikiyalvar #0" = -1
+	"Munnûrruvappattan #0" = 0
+	"Mâmpâkkamutaiyân #0" = 0
+	"Mâtêvatikalâr #0" = -1
+	"Namri Songtsen #1" = 10
+	"Nanamsa #1" = -1
+	"Nankaiyâr #0" = -1
+	"Nayanadevi #0" = -1
+	"Nilammai #0" = -1
+	"Nâcciyâlvi #0" = -1
+	"Pûvânti #0" = -1
+	"Songtsen Gampo #2" = 10
+	"Tagbu Nyasig #1" = 10
+	"Tara #0" = -1
+	"Tejas #0" = 0
+	"Tirumûlattânam #0" = -1
+	"Tiruvênkatam #0" = -1
+	"Tridé Yumten #1" = 10
+	"Tsewang #0" = -1
+	"Tânatonkiyâr #0" = -1
+	"Têcappukal #0" = -1
+	"Tûnkânai #0" = -1
+	"Uravâkkinân #0" = 0
+	"Varakunan #0" = 0
+	"Vîracêkara #0" = 0
+	"Vîrakêcari #0" = 0
+	"Vîrarâcêntira #3" = 10
+	"Yesui #0" = -1
+}
+leader_names = {
+	"Bal"
+	"Bri"
+	"Bro"
+	"Chespong"
+	"Cogro"
+	"Dbas"
+	"Dbra"
+	"Dru"
+	"Gnon"
+	"Gnyags"
+	"Khjungpo"
+	"Khu"
+	"Khun"
+	"Lang"
+	"Ldong"
+	"Lig"
+	"Mchims"
+	"Mgar"
+	"Mgus"
+	"Mjang"
+	"Mkar"
+	"Mnyammed"
+	"Mong"
+	"Nganlam"
+	"Nyang"
+	"Phjongsrgjas"
+	"Rinspungs"
+	"Rlangs"
+	"Rma"
+	"Rmu"
+	"Sba"
+	"Sbas"
+	"Se"
+	"Sgro"
+	"Shudpu"
+	"Snang"
+	"Snyiba"
+	"Stong"
+	"Thonmi"
+	"Zhang"
+	"Zhingshag"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

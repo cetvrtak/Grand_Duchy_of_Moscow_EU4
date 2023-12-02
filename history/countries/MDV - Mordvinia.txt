@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = mordvin
+capital = 2422
+1444.11.11= {
+	monarch = {
+		name = "Chinzhay"
+		dynasty = "Kardaz-Scrko"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1412.11.26
+		female = yes
+		religion = orthodox
+		culture = mordvin
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = righteous_personality
+	queen = {
+		name = "Azyren"
+		dynasty = "of Saran"
+		adm = 3
+		dip = 3
+		mil = 4
+		country_of_origin = MDV
+		birth_date = 1404.11.16
+		death_date = 1464.11.16
+		religion = orthodox
+		culture = mordvin
+	}
+	add_queen_personality = just_personality
+	add_queen_personality = pious_personality
+	heir = {
+		name = "Uchva"
+		monarch_name = "Uchva"
+		dynasty = "of Saran"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 1429.11.6
+		death_date = 1494.11.6
+		claim = 89
+		religion = orthodox
+		culture = mordvin
+	}
+	add_heir_personality = silver_tongue_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 167
+	add_treasury = 58
+}

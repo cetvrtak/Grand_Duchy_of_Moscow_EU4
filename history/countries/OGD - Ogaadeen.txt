@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = dynamic-bedouin_arabic-somali-culture-num1
+capital = 1207
+religious_school = hanbali_school
+1444.11.11= {
+	monarch = {
+		name = "Mubarak"
+		dynasty = "Gidayid"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1403.2.21
+		religion = sunni
+		culture = dynamic-bedouin_arabic-somali-culture-num1
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = martial_educator_personality
+	queen = {
+		name = "Leyla"
+		dynasty = "Orsini"
+		adm = 6
+		dip = 3
+		mil = 6
+		country_of_origin = OGD
+		birth_date = 1389.9.10
+		death_date = 1449.9.10
+		female = yes
+		religion = sunni
+		culture = dynamic-bedouin_arabic-somali-culture-num1
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = scholar_personality
+	heir = {
+		name = "Hamar"
+		monarch_name = "Hamar"
+		dynasty = "Gidayid"
+		adm = 6
+		dip = 3
+		mil = 6
+		birth_date = 1432.8.14
+		death_date = 1497.8.14
+		claim = 89
+		religion = sunni
+		culture = dynamic-bedouin_arabic-somali-culture-num1
+	}
+	add_heir_personality = secretive_personality
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11= {
+	add_prestige = 177
+	add_treasury = 71
+}
