@@ -532,3 +532,22 @@ technology = { #Electricity
 	#Electricity
 	production_efficiency 	=	0.02
 }
+
+technology = {
+	# Tech 34
+	year = 1855
+	
+	expects_institution = {
+		feudalism = 0.5
+		renaissance = 0.5
+		new_world_i = 0.5
+		printing_press = 0.5
+		global_trade = 0.5
+		manufactories = 0.5
+		enlightenment = 1
+		industrialization = 1
+	}
+
+	#Secularism
+	governing_capacity = 200
+}

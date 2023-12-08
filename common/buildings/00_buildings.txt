@@ -1966,3 +1966,53 @@ railroad = {
 	} 
 }
 
+naval_base = {
+	cost = 500
+	time = 12
+	
+	make_obsolete = grand_shipyard
+	
+	build_trigger = {
+		has_port = yes
+	}
+	modifier = {
+		naval_forcelimit = 6
+		ship_recruit_speed = -0.75
+		local_ship_repair = 0.75
+	}
+	on_built = {
+		add_development_from_upgrading_or_building = {
+			building = naval_base
+			obsolete_building = grand_shipyard
+			type = production
+			value = 3
+			upgrade_value = 1
+		}
+	}
+	on_destroyed = {
+		remove_development_from_building = {
+			building = naval_base
+			type = production
+			value = 3
+		}
+		if = {
+			limit = { has_province_modifier = sca_swe_danish_shipyard }
+			remove_province_modifier = sca_swe_danish_shipyard
+		}
+	}
+	on_obsolete = {
+	}
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 540 # Little above build cost
+			FROM = { navy_size_percentage = 0.95 }
+		}
+		modifier = {
+			factor = 1.1
+			local_autonomy = 50
+		}
+	}
+}
+

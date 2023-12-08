@@ -611,3 +611,27 @@ technology = { #Railroad
 	trade_efficiency 		= 	0.02
 }
 
+technology = {
+	# Tech 34
+	year = 1855
+	
+	expects_institution = {
+		feudalism = 0.5
+		renaissance = 0.5
+		new_world_i = 0.5
+		printing_press = 0.5
+		global_trade = 0.5
+		manufactories = 0.5
+		enlightenment = 1
+		industrialization = 1
+	}
+
+	#Ironclad
+	naval_base = yes
+	naval_maintenance	= 0.1
+	global_colonial_growth  = 	25
+	naval_engagement_width = 10
+
+	enable = ironclad
+}
+
