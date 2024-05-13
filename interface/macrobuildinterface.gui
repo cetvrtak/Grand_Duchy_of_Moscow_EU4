@@ -734,13 +734,13 @@ guiTypes = {
 
 		checkboxType = {
 			name = "build_naval_base"
-			position = { x = 269 y = 129 }
+			position = { x = 217 y = 129 }
 			quadTextureSprite = "GFX_courthouse_muslimgfx" #Placeholder, real sprite is decided by game (based on button name).
 		}
 		
 		instantTextBoxType={
 			name = "naval_base_cost"
-			position = { x = 269 y = 179 }
+			position = { x = 217 y = 179 }
 			font = "vic_18"
 			borderSize = {x = 0 y = 0}	
 			maxWidth = 128
@@ -750,7 +750,7 @@ guiTypes = {
 
 		iconType = {
 			name = "grand_shipyard_to_naval_base_arrow"
-			position = { x = 261 y = 138 }
+			position = { x = 209 y = 138 }
 			spriteType = "GFX_building_upgrade_icon"
 		}				
 
